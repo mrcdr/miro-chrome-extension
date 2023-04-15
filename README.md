@@ -12,6 +12,8 @@ The following features are contained:
 - Vite
 
 # How to try
+![screenshot](docs/img/ss.png "screenshot")
+
 1. Clone the repository
 1. Run `npm i`
 1. Run `npm run build`, which generates `dist` directory
